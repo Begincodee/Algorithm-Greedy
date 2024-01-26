@@ -1,6 +1,6 @@
 // Using alorithm greedy // 
-/* 	Output of programm will be stored in file Trial_reduce_ineq.txt that
-	describes the constraint equations to build the MILP model for modular addition */
+/* Output of programm will be stored in file Trial_reduce_ineq.txt that
+   describes the constraint equations to build the MILP model for modular addition */
 
 #include<iostream>
 #include<bitset>
