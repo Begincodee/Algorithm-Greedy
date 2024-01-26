@@ -1,6 +1,6 @@
 // Using alorithm greedy // 
 /* Output of programm will be stored in file Trial_reduce_ineq.txt that
-   describes the constraint equations for modular addition */
+   describes the constraint equations of modular addition */
 
 #include<iostream>
 #include<bitset>
